@@ -9,9 +9,7 @@
           <!-- "Janavi Zala" in Ocean Blue -->
           <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=36&duration=4000&pause=1000&color=0077BE&center=false&vCenter=false&width=300&lines=Janavi+Zala" alt="Janavi Zala" />
         </h1>
-        <h2>
-          <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=36&duration=4000&pause=1000&color=A855F7&center=false&vCenter=false&width=400&lines=Janavi+Zala" alt="Janavi Zala" />
-        </h2>
+       
         <br/>
         <p align="left">
           I'm a Full-Stack Developer focused on building innovative, user-centric web experiences. I combine modern web technologies with AI to create scalable products that are clean, practical, and impactful. Every project is an opportunity to learn, innovate, and solve meaningful problems.
