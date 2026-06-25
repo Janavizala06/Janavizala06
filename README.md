@@ -2,7 +2,13 @@
   <table>
     <tr>
       <td width="60%">
-        <h1>Hey! 👋</h1>
+               <h1>
+          Hey! 👋<br/>
+          <!-- "It's" in White -->
+          <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=36&duration=4000&pause=1000&color=FFFFFF&center=false&vCenter=false&width=75&lines=It's" alt="It's" />
+          <!-- "Janavi Zala" in Ocean Blue -->
+          <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=36&duration=4000&pause=1000&color=0077BE&center=false&vCenter=false&width=300&lines=Janavi+Zala" alt="Janavi Zala" />
+        </h1>
         <h2>
           <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=36&duration=4000&pause=1000&color=A855F7&center=false&vCenter=false&width=400&lines=Janavi+Zala" alt="Janavi Zala" />
         </h2>
