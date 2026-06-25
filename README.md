@@ -90,11 +90,11 @@
 
 <br/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bat.png" width="40" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bat.png" width="40" />
+  <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" width="40" />
+  <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" width="40" />
   &nbsp;&nbsp;&nbsp;<b>Github Analytics</b>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bat.png" width="40" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bat.png" width="40" />
+  <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" width="40" />
+  <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" width="40" />
 </p>
 
 <div align="center">
