@@ -1,7 +1,7 @@
 <div align="center">
   <!-- 1. Clickable Banner Image -->
-  <a href="YOUR_PORTFOLIO_LINK_HERE">
-    <img src="YOUR_IMAGE_URL_HERE.png" alt="Janavi Zala Banner" width="100%" />
+  <a href="https://janavi-zala.vercel.app/">
+    <img src=""C:\Users\janav\Downloads\Janavi Zala — Full Stack Developer & AI Engineer.png".png" alt="Janavi Zala Banner" width="100%" />
   </a>
   
   <br><br>
@@ -17,7 +17,7 @@
   <table width="100%">
     <tr>
       <td width="33%" align="center">
-        <a href="YOUR_LINKEDIN_LINK_HERE">
+        <a href="www.linkedin.com/in/janavi-zala">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
       </td>
@@ -27,7 +27,7 @@
         </a>
       </td>
       <td width="33%" align="center">
-        <a href="YOUR_PORTFOLIO_LINK_HERE">
+        <a href="https://janavi-zala.vercel.app/">
           <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
         </a>
       </td>
