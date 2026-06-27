@@ -1,7 +1,7 @@
 <div align="center">
   <!-- 1. Clickable Banner Image -->
   <a href="https://janavi-zala.vercel.app/">
-    <img src=""https://cdn.imageurlgenerator.com/uploads/5834f47a-0d93-4484-9499-de9e9a979cf9.png"" alt="Janavi Zala Banner" width="100%" />
+    <img src=""https://drive.google.com/file/d/1iWe49IU-daLot_3gZo2ohl8N_cF7hd9x/view?usp=drive_link"" alt="Janavi Zala Banner" width="100%" />
   </a>
   
   <br><br>
