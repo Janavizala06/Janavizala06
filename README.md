@@ -1,7 +1,7 @@
 <div align="center">
   <!-- 1. Clickable Banner Image -->
   <a href="https://janavi-zala.vercel.app/">
-    <img src=""Janavi Zala — Full Stack Developer & AI Engineer.png"" alt="Janavi Zala Banner" width="100%" />
+    <img src="banner.png" alt="Janavi Zala Banner" width="100%" />
   </a>
   
   <br><br>
